@@ -14,7 +14,7 @@ Valuation guide
 - Corporate finance <a id="2">[4]</a>
 - Valuation <a id="2">[5]</a>
 - Financial modeling <a id="2">[6]</a>
-- Technical analysis <a id="2">[6]</a>
-- Algorithmic trading <a id="2">[6]</a>
+- Technical analysis <a id="2">[7]</a>
+- Algorithmic trading <a id="2">[8]</a>
 
 <p align="center"><img src="Images/IMG1.PNG" width="600" > </p>
