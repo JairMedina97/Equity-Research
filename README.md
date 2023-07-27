@@ -18,3 +18,21 @@ Valuation guide
 - Algorithmic trading <a id="2">[8]</a>
 
 <p align="center"><img src="Images/IMG1.PNG" width="600" > </p>
+<p align="center"><img src="Images/IMG1.5.PNG" width="600" > </p>
+<p align="center"><img src="Images/IMG2.PNG" width="600" > </p>
+<p align="center"><img src="Images/IMG3.PNG" width="600" > </p>
+<p align="center"><img src="Images/IMG4.PNG" width="600" > </p>
+<p align="center"><img src="Images/IMG5.PNG" width="600" > </p>
+<p align="center"><img src="Images/IMG6.PNG" width="600" > </p>
+<p align="center"><img src="Images/IMG7.PNG" width="600" > </p>
+<p align="center"><img src="Images/IMG8.PNG" width="600" > </p>
+<p align="center"><img src="Images/IMG9.PNG" width="600" > </p>
+<p align="center"><img src="Images/IMG10.PNG" width="600" > </p>
+<p align="center"><img src="Images/IMG11.PNG" width="600" > </p>
+<p align="center"><img src="Images/IMG12.PNG" width="600" > </p>
+<p align="center"><img src="Images/IMG13.PNG" width="600" > </p>
+<p align="center"><img src="Images/IMG14.PNG" width="600" > </p>
+<p align="center"><img src="Images/IMG15.PNG" width="600" > </p>
+<p align="center"><img src="Images/IMG16.PNG" width="600" > </p>
+<p align="center"><img src="Images/IMG17.PNG" width="600" > </p>
+
