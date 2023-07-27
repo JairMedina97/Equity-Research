@@ -1,6 +1,6 @@
 # Equity-Research
 
-This repository contains a pdf file where I explain in spanish how to perform a step by step equity research and financial valuation method using a case study with real financial reports and earnings documents by Amazon.
+This repository contains a pdf file where I explain in spanish how to perform a step by step equity research and financial valuation method using a case study with real financial reports and earnings documents by Amazon. Calculations and assessment are being performed in excel software. 
 
 ## Why ? 
 This analytical process of assess data can maximize value of every activity and detect where are the key areas of expansion and investment, as engineering and finance students this is an important and reliable way to view data and learn how corporate can take meaningful decisions to innovate and be part of a succesful way of doing business.
